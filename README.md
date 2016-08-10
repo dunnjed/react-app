@@ -1,3 +1,5 @@
+*This boilerplate is completely based off the Create React App found [here](https://github.com/facebookincubator/create-react-app). The ability to use the Sass preprocessor has been added to this version of the boilerplate.*
+
 Below you will find some information on how to perform common tasks.  
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/template/README.md).
 
