@@ -46,6 +46,7 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
+    "openlayers": "^3.17.1",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "remarkable": "^1.6.2"
